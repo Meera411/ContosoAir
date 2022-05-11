@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Syedmeera4110174/AADD/_apis/build/status/Meera411.ContosoAir?branchName=master)](https://dev.azure.com/Syedmeera4110174/AADD/_build/latest?definitionId=10&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
